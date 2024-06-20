@@ -126,9 +126,6 @@ body{
 .lista__link a:hover{
     color: var(--botao-azul);
 }
-.container__botao botao_secundario a:hover{
-    color: var(--cinza-secundario);
-}
 .rodape__texto{
     color: var(--cinza-secundario);
     font-size: 14px;
@@ -138,4 +135,7 @@ body{
 .container__botao:hover {
     background-color: var(--botao-azul-efeito);
     text-shadow: var(--cinza-secundario);
+}
+.botao_secundario:hover{
+    background-color: rgb(154, 155, 157);
 }
