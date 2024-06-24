@@ -127,7 +127,7 @@ body{
     color: var(--botao-azul);
 }
 .rodape__texto{
-    color: var(--cinza-secundario);
+    color: ciano;
     font-size: 12px;
     margin: 2em 0;
 }
